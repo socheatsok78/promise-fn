@@ -1,5 +1,6 @@
 {
   "name": "promise-fn",
+  "description": "A JavaScript/TypeScript alternative way of using `Promise`.",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
