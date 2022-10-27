@@ -1,7 +1,7 @@
 {
   "name": "@socheatsok78/promise-fn",
   "description": "A JavaScript/TypeScript alternative way of using `Promise`.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "git@github.com:socheatsok78/promise-fn.git",
