@@ -7,6 +7,9 @@
   "repository": "git@github.com:socheatsok78/promise-fn.git",
   "author": "Socheat Sok <alex@socheat.net>",
   "license": "Apache-2.0",
+  "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
     "typescript": "^4.8.4"
   },
